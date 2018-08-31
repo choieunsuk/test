@@ -1,7 +1,7 @@
 {
   "name": "test",
   "version": "1.0.0",
-  "description": "",
+  "description": "test\r ====",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -15,5 +15,14 @@
     "express": "^4.16.3",
     "method-override": "^3.0.0",
     "mongoose": "^5.2.12"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choieunsuk/test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/choieunsuk/test/issues"
+  },
+  "homepage": "https://github.com/choieunsuk/test#readme"
 }
